@@ -1,6 +1,6 @@
 # TV-SHOW page
 
-<h5> in this project we have a function to search some elements of movies ..</h5>
+* in this project we have a function to search some elements of movies by using `API`
 
 ***i used command `HTML` elements and `javaScript` language to create functions to doing some action in this project..***
 *** and i used some functions like a `addeventlistener` , `querySelector` to adding some elements to HTML file  ***
